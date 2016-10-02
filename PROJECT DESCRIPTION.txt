@@ -1,0 +1,5 @@
+This project is dynamic website for students in XII standard who want to apply for JEE(MAINS/ADVANCE).
+It gives an overall scenario of the exam , some exam tips and previous year question paper.
+It also has a feedback form.
+
+Screenshoots are attached 
